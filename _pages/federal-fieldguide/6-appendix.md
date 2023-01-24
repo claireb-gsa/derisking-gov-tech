@@ -17,13 +17,13 @@ subnav:
 {% asset fed5-appendix.svg class="chapter__img" alt="" %}
 </div>
 
-### Verbal Interview Question Bank
+### Verbal interview question bank
 
 Below are a set of sample questions to use in verbal interviews during acquisition to elicit additional clarity about a contractor's technical approach in their proposal. 
 
 Note: verbal interviews are not the same as oral presentations under FAR Part 15. Oral presentations allow a contractor to amend or change their proposal. Verbal interviews do not permit a contractor to amend or change their proposal; instead they provide an opportunity to ask clarifying questions on the technical approach portion of their proposal as written.
 
-#### Technical Approach 
+#### Technical approach 
 
 ##### Engineering
 
@@ -49,7 +49,7 @@ Note: verbal interviews are not the same as oral presentations under FAR Part 15
 
 -   Please describe your technical lead's experience with [programming language]. 
 
--   Tell me about a system you built on top of some Infrastructure- or Platform-as-a-service. 
+-   Tell me about a system you built on top of some infrastructure- or platform-as-a-service. 
 
 -   Tell me about an infrastructure problem that you helped solve (for example: slow application performance, unexpected downtime, a security breach; etc). What was the problem, and how did you solve it? 
 
@@ -63,7 +63,7 @@ Note: verbal interviews are not the same as oral presentations under FAR Part 15
 
 -   What activities do you plan on engaging in to ensure a strong, collaborative process with regard to teamwork? 
 
--   Your Agile development approach looks to have a number of handoffs between different parts of the team. Can you tell us how you can ensure that the various members of the design/dev team will be able to stay on the same page during implementation? 
+-   Your agile development approach looks to have a number of handoffs between different parts of the team. Can you tell us how you can ensure that the various members of the design/dev team will be able to stay on the same page during implementation? 
 
 -   How do you typically communicate your findings and strategic recommendations to a client? How do you frame things when the findings might challenge some of your partners' assumptions? 
 
@@ -79,7 +79,7 @@ Note: verbal interviews are not the same as oral presentations under FAR Part 15
 
 -   Tell us more about the different team roles you envision for this project. 
 
-##### Research & Design
+##### Research and design
 
 -   How have you incorporated changes based on user research?
 
@@ -97,7 +97,7 @@ Note: verbal interviews are not the same as oral presentations under FAR Part 15
 
 -   Describe a time when you uncovered research results that disproved the team's core assumptions. What was the situation? What did you do? What did you learn? 
 
-##### Product & Strategy
+##### Product and strategy
 
 -   Talk about what you see as the three most important risks for this project and how you will help the [agency] to mitigate them. 
 
@@ -111,7 +111,7 @@ Note: verbal interviews are not the same as oral presentations under FAR Part 15
 
 ##### Iterative development
 
--   Describe the Agile project management practices and tools you will use for estimating, planning, managing risk, team collaboration, and communicating status. Why would you use these? 
+-   Describe the agile project management practices and tools you will use for estimating, planning, managing risk, team collaboration, and communicating status. Why would you use these? 
 
 -   How will you keep developers, designers, and researchers engaged in building out a user story without lengthening the sprint or reverting to a "waterfall" development process? 
 
@@ -119,7 +119,7 @@ Note: verbal interviews are not the same as oral presentations under FAR Part 15
 
 -   How would you alert the government product owner if the team encounters tasks that require more work than originally anticipated that can't be completed in the current sprint? 
 
--   Tell me about your experience with Agile or other iterative development styles. How does practicing Agile affect the technical choices you make?
+-   Tell me about your experience with agile or other iterative development styles. How does practicing agile affect the technical choices you make?
 
 Based on the answers, also dig in on anything that is pertinent on a given project, or that seems odd in a given proposal, for example:
 
