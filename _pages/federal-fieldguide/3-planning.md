@@ -47,7 +47,7 @@ By **Waldo Jaquith**, **Peter Rowland**, **Miatta Myers**, **Vicki McFadden**, *
 **Challenge**: Agencies are not empowering product owners to be successful.
 {:.guide-highlight}
 
-#### Executive Summary
+#### Executive summary
 
 -   Any agile development effort requires an empowered, accountable, and technically proficient federal leader to succeed
 
@@ -75,7 +75,7 @@ By **Waldo Jaquith**, **Peter Rowland**, **Miatta Myers**, **Vicki McFadden**, *
 **Challenge**: Product development efforts lack sufficient end user input.
 {:.guide-highlight}
 
-#### Executive Summary
+#### Executive summary
 
 -   Agile is impossible without regular and ongoing feedback from end users. Agencies can't be agile without such feedback.
 
@@ -95,7 +95,7 @@ By **Waldo Jaquith**, **Peter Rowland**, **Miatta Myers**, **Vicki McFadden**, *
 **Challenge**: Customizing commercial off-the-shelf (COTS) can have adverse outcomes.
 {:.guide-highlight}
 
-#### Executive Summary
+#### Executive summary
 
 -   Custom development versus "commercial-off-the-shelf" or COTS is often a false paradigm. Often, agencies will buy COTS and then also pay for custom software development to make the software meet their needs.
 
@@ -165,7 +165,7 @@ By **Ian Lee**, **Ryan Johnson**, **Rebecca Refoy**
 **Challenge**: Agencies are not taking advantage of the benefits of open source.
 {:.guide-highlight}
 
-#### Executive Summary
+#### Executive summary
 
 -   Developing code in the open benefits agencies in numerous ways: improves code quality; gets active feedback from the public; makes collaboration easier among agencies, contractors, and the public; improves security; and encourages reuse.
 
@@ -203,14 +203,14 @@ Building with open source technologies, and building in an open code repository,
 
 Open source software also shows a developer's skills. Skilled developers want to work on open source projects to demonstrate their skills to colleagues, their current employer, and future employers. When their code is available for anyone to check, their personal standards go up and other developers can contribute to the project to improve outcomes.
 
-### Require infrastructure-as-code, single-command deployment, and <br/> per-sprint government verification of&nbsp;functionality
+### Require infrastructure-as-code, single-command deployment, and per-sprint government verification of functionality
 
 By **Waldo Jaquith**
 
 **Challenge:** Agencies do not own their technical stack through the use of DevOps.
 {:.guide-highlight}
 
-#### Executive Summary
+#### Executive summary
 
 A great deal happens between a developer writing code and then running the code where people can use it. It is important that the government controls the entire process to avoid vendor lock-in.
 
@@ -258,7 +258,7 @@ By **Peter Rowland**, **Mark Hopson**, **Vicki McFadden**, **Miatta Myers**, **W
 **Challenge:** Leadership's role differs in an agile project.
 {:.guide-highlight}
 
-#### Executive Summary
+#### Executive summary
 
 Leadership's role in agile development is to empower teams, align organizational governance and oversight practices to agile development, and remove blockers. 
 
@@ -285,7 +285,7 @@ By **Mark Hopson**, **Vicki McFadden**
 **Challenge:** Programs are receiving too much money for software development projects.
 {:.guide-highlight}
 
-#### Executive Summary
+#### Executive summary
 
 -   Building technology with loosely coupled parts means that agencies no longer need to undergo the big, upfront design, procurement, and implementation of large systems. Systems should be split into modules that deliver functionality to users, and the infrastructure to support a given module should be determined by the development team in the sprint in which it is needed.
 
@@ -373,7 +373,7 @@ By **Heather Battaglia**, **T Carter Baxter**, **Kelsey Foley**, **Mark Hopson**
 **Challenge:** Not having a clear path to production derails development efforts.
 {:.guide-highlight}
 
-#### Executive Summary
+#### Executive summary
 
 It is demoralizing and expensive if a contractor is brought on to develop software and they can't access the hosting or deployment environments for months. Make sure the path to production is clear from bureaucratic obstacles and well-documented before awarding a contract for agile software development services.
 
@@ -427,7 +427,7 @@ By **Peter Rowland**, **Randy Hart**, **Mark Hopson**, **Waldo Jaquith**, **Vick
 **Challenge:** Distributed teamwork is impeded by restricted access to collaboration tools.
 {:.guide-highlight}
 
-#### Executive Summary
+#### Executive summary
 
 Remote collaboration is incredibly difficult for teams if they are not given access to the necessary collaboration tools they need. Unfortunately, this is commonplace in government. 
 
@@ -460,7 +460,7 @@ Agencies should determine which collaboration tools their teams need and make th
 **Challenge:** Budgeting for large, risky investments in major software programs years in advance increases risk of failure during implementation. 
 {:.guide-highlight}
 
-#### Executive Summary
+#### Executive summary
 
 -   Compiling several smaller software development projects into a single large project might seem easier --- one budget request and one vendor contract --- but it increases the risk of failure.
 
@@ -514,7 +514,7 @@ To avoid the extra effort of requesting funding, awarding, and managing a new co
 
 A single agency system may combine annual software licenses, software-as-a-service tools, and custom code. Hiding this complexity with a single contract / vendor makes untangling knots and making improvements very difficult. 
 
-##### Breaking the Legacy Cycle
+##### Breaking the legacy cycle
 
 According to one GAO report on the current state of software budgeting in the federal government, "in several situations...agencies are not sure whether to report costs as O&M or DME" and so "agencies default to reporting as O&M."[^OM]
 
@@ -526,7 +526,7 @@ This logistical issue has resulted in a steady increase in spending on O&M for l
 
 An agency knows the least about what it will take to fully modernize a legacy system when they draft a budget for that work.
 
-#### Risk Mitigation Prototyping
+#### Risk mitigation prototyping
 Consider a hypothetical production system, meaning actively in-use, for a critical agency mission need. This kind of system would very likely be classified as a "major IT investment" for budgeting purposes. It's not uncommon for these kinds of systems to cost upwards of $20 million a year in O&M cost, based on publicly available information searchable on ITDashboard.gov. [^itdashboard]
 
 The riskiest way that an agency could try to make this transition would be to take that same $20 million spent on O&M for the existing system and simply transfer it into a request for DME funds, coupled with a monolithic contract. 
