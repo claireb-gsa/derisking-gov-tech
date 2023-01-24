@@ -28,13 +28,13 @@ subnav:
 
 The following sections identify challenges and strategies to mitigate risk during the research and solicitation phase of custom technology projects in government.
 
-### Conduct Modern Market Research
+### Conduct modern market research
 By **Mark Hopson**
 
 **Challenge:** Agencies do not use industry best practices for market research. 
 {:.guide-highlight}
 
-#### Executive Summary
+#### Executive summary
 
 - Market research is vitally important to ensure successful outcomes with any acquisition. Given the dynamic nature of software, this is especially true. 
 
@@ -90,7 +90,7 @@ With **market investigation** the questions become more pointed:
 
 By considering market surveillance and market investigation separately, the advantages become apparent. By consistently conducting market surveillance, a government employee has a baseline level of information that is accurate, relevant, and timely. An agency can dive into specifics (market investigation) whenever the agency need arises. This makes it far easier to complete necessary tasks like writing a market research report or an acquisition plan, or even conducting a competition.
 
-When considering an agency's potential software needs, good market research is crucial to determine whether or not commercial off-the-shelf (COTS) will suffice or whether a custom Agile development effort is needed. 
+When considering an agency's potential software needs, good market research is crucial to determine whether or not commercial off-the-shelf (COTS) will suffice or whether a custom agile development effort is needed. 
 
 Often, an effort's success or failure is based on a decision made in this early step before any solicitation is issued or actual development takes place. If an agency makes the wrong decision based on poor information gathered in this step, it often leads to what 18F refers to as "unrecognizably modified off-the-shelf" (UMOTS).
 
@@ -116,7 +116,7 @@ In the [Evaluate contractor proposals based on industry best practices](#evaluat
 
 By the time an agency enters into a legally binding competitive bidding process, they'll be prepared and equipped with a much clearer understanding of what matters. 
 
-##### Sources of Market Information
+##### Sources of market information
 
 Market research isn't really different from any other kind of research, so some basic concepts to consider about gathering information are "sources" and "methods." 
 
@@ -198,7 +198,7 @@ Consider any typical exchange between a buyer and seller:
 
 How do government employees know if the seller's assertions here are true and accurate? They can't know, not without other information to compare it against. 
 
-##### Methods for Conducting Market Research
+##### Methods for conducting market research
 
 There's two ways agencies can engage with a source: directly or indirectly.
 
@@ -220,7 +220,7 @@ Requests for Information (RFIs) are a very popular market research method but co
 
 RFIs have a place in market research, but most of their value has been eclipsed by the advent of information available through the internet. It's possible to find more reliable information through indirect research on the internet.
 
-#### Considerations for Sales and Capture Management
+#### Considerations for sales and capture management
 
 Whether agencies want to engage the market or not, chances are very high that if a government employee has anything to do with spending government money, the *market will engage them*.
 
@@ -303,17 +303,17 @@ The size, scope, and complexity of the requirement will determine the amount of 
 
 Should agencies spend a few months learning about custom software development projects, and find companies that seem to have a good track record before building a mission critical system? Absolutely.
 
-### Use the Agile contract format to procure Agile software development services.
+### Use the agile contract format to procure agile software development services
 By **Waldo Jaquith**, **Randy Hart**, **Mark Hopson**, and **Vicki McFadden**
 
-**Challenge:** Agencies are not structuring their contracts to support buying Agile software development services. 
+**Challenge:** Agencies are not structuring their contracts to support buying agile software development services. 
 {:.guide-highlight}
 
-#### Executive Summary
+#### Executive summary
 
--   Legacy contract formats[^formats] that detail hundreds to thousands of software requirements up front are not suitable for Agile software development services.
+-   Legacy contract formats[^formats] that detail hundreds to thousands of software requirements up front are not suitable for agile software development services.
 
--   With the Agile contract template, available as a template, agencies should procure developers' time, as prioritized by the government product owner through an Agile cadence. Any contract must secure sufficient data rights for the agency in the work product or result of the development effort based on their mission needs.
+-   With the agile contract template, available as a template, agencies should procure developers' time, as prioritized by the government product owner through an agile cadence. Any contract must secure sufficient data rights for the agency in the work product or result of the development effort based on their mission needs.
 
 #### Recommendation
 
@@ -338,21 +338,21 @@ This proven methodology has yet to be fully implemented governmentwide for a var
 
 The problems caused by not using performance-based methods is especially acute when it comes to the software development professional services. Government solicitations to procure non-performance based custom software are often long and complicated, include many pages of requirements, and can take months --- even years --- to write. 
 
-##### Structuring solicitations for Agile projects
+##### Structuring solicitations for agile projects
 
-A quicker, more outcome-oriented method, such as 18F's [Agile contract format](https://18f.gsa.gov/assets/presentations/agile-software-development-solicitation-template.docx), would allow an agency to acquire an Agile software contractor with a solicitation that's only a dozen pages and written in an afternoon. It can be executed under existing procurement regulations and within Contracting Officers' (CO) existing authority. It can save enormous amounts of time, and the contract structure supports -- not impedes -- Agile development efforts.
+A quicker, more outcome-oriented method, such as 18F's [agile contract format](https://18f.gsa.gov/assets/presentations/agile-software-development-solicitation-template.docx), would allow an agency to acquire an agile software contractor with a solicitation that's only a dozen pages and written in an afternoon. It can be executed under existing procurement regulations and within Contracting Officers' (CO) existing authority. It can save enormous amounts of time, and the contract structure supports -- not impedes -- agile development efforts.
 
-The format is simple but contains a major shift in how agencies procure Agile software development services. In our experience, these elements are needed to align the solicitation with Agile software development best practices:
+The format is simple but contains a major shift in how agencies procure agile software development services. In our experience, these elements are needed to align the solicitation with agile software development best practices:
 
-**Use a Statement of Objectives --- not a Statement of Work or Performance Work Statement**[^statement] --- because, with Agile, an agency doesn't know exactly what needs to be done, and can't possibly define it up front. The product owner, working with the development team, will determine on a sprint-by-sprint basis what work needs to be done. Anything else wouldn't be Agile.
+**Use a Statement of Objectives --- not a Statement of Work or Performance Work Statement**[^statement] --- because, with agile, an agency doesn't know exactly what needs to be done, and can't possibly define it up front. The product owner, working with the development team, will determine on a sprint-by-sprint basis what work needs to be done. Anything else wouldn't be agile.
 
  **Contract for time and materials, not a firm-fixed-price.** In most cases when an agency is purchasing for a software project, they're not buying a defined product, but instead buying a software development teams' time. Agencies can use a time-and-materials contract, as the CO may prefer, or a labor hour contract. Historically, the default contract types for IT projects were firm-fixed-price, based on the assumption that this reduces risk and aligns with the way software licenses have historically been offered.
 
-However, if an agency is in a position to constantly measure ("inspect and accept" in Agile) software quality, a time and materials contract --- with a ceiling on total spending (or not-to-exceed ceiling) --- allows for more flexibility for the software development team. A time and materials contract also allows for much easier escape clauses if the direction of the work changes or the contractor team does not produce quality software. If their work is inadequate, or their skills prove inappropriate, then no further work needs to be assigned to that contractor (effectively terminating the contract), and the contractor can be replaced. See our sample[ Determinations & Findings](https://18f.gsa.gov/assets/presentations/determinations-findings-for-a-time-and-materials-contract-type-sample.docx) for more information on time and material contracts.
+However, if an agency is in a position to constantly measure ("inspect and accept" in agile) software quality, a time and materials contract --- with a ceiling on total spending (or not-to-exceed ceiling) --- allows for more flexibility for the software development team. A time and materials contract also allows for much easier escape clauses if the direction of the work changes or the contractor team does not produce quality software. If their work is inadequate, or their skills prove inappropriate, then no further work needs to be assigned to that contractor (effectively terminating the contract), and the contractor can be replaced. See our sample[ Determinations & Findings](https://18f.gsa.gov/assets/presentations/determinations-findings-for-a-time-and-materials-contract-type-sample.docx) for more information on time and material contracts.
 
 **Have a short base period of performance, usually between 6--12 months.** A couple of options to extend are fine, but keep them short, and never exceed a total contract length of three years. The agency is hiring a team to achieve a defined set of objectives and then leave. The government product owner should be heavily engaged throughout the project so contractor transitions should be relatively easy.
 
-**Maintain a nominal appendix of the backlog of user stories.** User stories allow contractors to understand the specifics of the work that they're being asked to do, beyond whatever brief summary exists in the introduction. An agency must make it clear that the backlog has been included to illustrate the work that is presently believed will need to be done, but that it is only an illustration, and not a list of tasks that must be completed. It's a mistake to inventory user stories up front, rather than as part of performance. There's no way to know up front what work will need to be done, as is inherent to Agile (design, build, test; inspect; repeat). The language provided in the Agile contract format allows for this flexibility, since the backlog accounts for evolving outcomes rather than a predefined list of needs.
+**Maintain a nominal appendix of the backlog of user stories.** User stories allow contractors to understand the specifics of the work that they're being asked to do, beyond whatever brief summary exists in the introduction. An agency must make it clear that the backlog has been included to illustrate the work that is presently believed will need to be done, but that it is only an illustration, and not a list of tasks that must be completed. It's a mistake to inventory user stories up front, rather than as part of performance. There's no way to know up front what work will need to be done, as is inherent to agile (design, build, test; inspect; repeat). The language provided in the agile contract format allows for this flexibility, since the backlog accounts for evolving outcomes rather than a predefined list of needs.
 
 **Write a Quality assurance and surveillance plan (QASP).** This is the cornerstone of performance-based service contracting. Rather than an exhaustive list, we focus on key, objective criteria that are able to determine and ensure quality.[^quality] For example, in our model, we require that at the end of each sprint, all code be complete, tested, accessible, deployed, documented, and secure.
 
@@ -362,7 +362,7 @@ We publish [a sample QASP]({{site.baseurl}}/qasp/) that can be incorporated as-i
 
 **Key personnel should include, at a minimum, the lead developer, and quite possibly the project manager.** The agency is buying people's time, and wants to make sure that it's getting the people who were advertised. Be wary of specifying too many key personnel, though --- this requires that the contractors put those people on the project if they get the contract, which can mean that they're functionally benched until the contract is awarded. 
 
-In a truly Agile project, the project manager plays a very different role than in a waterfall project. Agile teams are self-organizing, which eliminates a major role traditionally played by a project manager. Instead, the project manager should serve as the contractor's interface to the client, be responsible for unblocking tasks and overseeing --- but not controlling --- the work performed by the vendor team. In many agencies, the project manager's role is usually required to prove that the agency is not engaged in personal services.
+In a truly agile project, the project manager plays a very different role than in a waterfall project. Agile teams are self-organizing, which eliminates a major role traditionally played by a project manager. Instead, the project manager should serve as the contractor's interface to the client, be responsible for unblocking tasks and overseeing --- but not controlling --- the work performed by the vendor team. In many agencies, the project manager's role is usually required to prove that the agency is not engaged in personal services.
 
 **Allow for a distributed team**, whenever possible. We advocate for remote development, rather than requiring the contractor team to be onsite at the agency's location. The best development resources are not in your city --- they're spread out across your state and even the country. (There's a [150% difference in the salary of software developers](https://www.bls.gov/oes/current/oes151132.htm#IDX701) between the most-expensive and least-expensive states in the United States.)
 
@@ -372,7 +372,7 @@ Using a modern technology suite, collaboration is easy. The product owner should
 
 **All work will be committed to a public code repository** at least daily.
 
-**Keep technical proposals within page limitations**, to minimize both contractor work and the time required for evaluation. Requests for more space may indicate that the contractor isn't taking an Agile approach, or that they don't adequately understand what they're proposing. In 18F acquisitions, we typically ask for responses to be 2-3 pages.
+**Keep technical proposals within page limitations**, to minimize both contractor work and the time required for evaluation. Requests for more space may indicate that the contractor isn't taking an agile approach, or that they don't adequately understand what they're proposing. In 18F acquisitions, we typically ask for responses to be 2-3 pages.
 
 **The contractor must submit links to 2-3 source code repositories** where their illustrative past work can be seen. Allow this to include work done by key personnel (e.g., the technical lead) outside of their employment with the contractor, since many contractors will not have any public repositories to point to for lack of clients willing to work in the open. This is a far better indicator for how they are likely to perform under real-world conditions rather than the attempted simulation of coding challenges or hackathons.
 
@@ -385,37 +385,37 @@ All of the above can be incorporated into a solicitation in a dozen or so pages,
 
 You can put a solicitation like this together in a few hours. In a standard, three-day 18F procurement workshop, we use only the latter half of the third day to lead our client through an exercise in which we put together such a solicitation. With the right coaching, it's not hard.
 
-Include the Contracting Officer (CO) in this process at every step of the way, starting as early as possible. When we host procurement workshops, we insist that the CO join the entire process, instead of just coming for the final day to hear about modular procurement and put together the solicitation. The CO needs to have the same base level of knowledge about the Agile development process as everybody else in the room. Without knowing about Agile software development, user-centered design, DevOps, etc., this prescribed contract format seems impossible.
+Include the Contracting Officer (CO) in this process at every step of the way, starting as early as possible. When we host procurement workshops, we insist that the CO join the entire process, instead of just coming for the final day to hear about modular procurement and put together the solicitation. The CO needs to have the same base level of knowledge about the agile development process as everybody else in the room. Without knowing about agile software development, user-centered design, DevOps, etc., this prescribed contract format seems impossible.
 
-Don't use hand-me-down government solicitations to procure Agile software development services. By focusing on procuring competent development team(s) to achieve clear objectives, your agency can produce solicitations in hours, not months.
+Don't use hand-me-down government solicitations to procure agile software development services. By focusing on procuring competent development team(s) to achieve clear objectives, your agency can produce solicitations in hours, not months.
 
-### Use time and material contract types for custom Agile software development services.
+### Use time and material contract types for custom agile software development services
 By **Mark Hopson**, **Vicki McFadden**, **Alan Atlas**, and **Waldo Jaquith**
 
-**Challenge:** Firm-fixed-price contracts are not appropriate for custom Agile development.
+**Challenge:** Firm-fixed-price contracts are not appropriate for custom agile development.
 {:.guide-highlight}
 
-#### Executive Summary
+#### Executive summary
 
 -   Use time and material (T&M) contracts with a not-to-exceed ceiling. If there is an engaged government product owner on the development team, they will know what the team is working on every day, so the historical risk of T&M contracts --- costs spinning out of control --- is reduced. 
 
--   Your team won't know the exact requirements for a software product before development, so don't use firm-fixed-price (FFP) for Agile software development. 
+-   Your team won't know the exact requirements for a software product before development, so don't use firm-fixed-price (FFP) for agile software development. 
 
--   Don't measure Agile quality or outcomes by the completion of a number of sprints or user stories. 
+-   Don't measure agile quality or outcomes by the completion of a number of sprints or user stories. 
 
 #### Recommendation
 
-We recommend a time and material (T&M) contract for Agile software development with a not-to-exceed ceiling.[^ceiling] 
+We recommend a time and material (T&M) contract for agile software development with a not-to-exceed ceiling.[^ceiling] 
 
-Flexibility is an absolute necessity for Agile software development. In an Agile project, there are no predetermined requirements listed as "shall" statements. 
+Flexibility is an absolute necessity for agile software development. In an agile project, there are no predetermined requirements listed as "shall" statements. 
 
 Instead, there is a product backlog comprised of user stories, which the product owner regularly adds to and re-orders to reflect each story's priority. Priorities can change at any time based on user research, changing agency needs, law or policy changes, etc. There is no way to know in advance what work will need to be done. 
 
-In Agile software development, an agency does not buy a defined product. Instead, it buys development teams' (developers, designers, content strategists, etc.) time. Therefore, the most appropriate contract type is T&M. The government, through an engaged product owner, can constantly prioritize the work to be done and measure software quality. The product owner should know what the development team is working on every day. 
+In agile software development, an agency does not buy a defined product. Instead, it buys development teams' (developers, designers, content strategists, etc.) time. Therefore, the most appropriate contract type is T&M. The government, through an engaged product owner, can constantly prioritize the work to be done and measure software quality. The product owner should know what the development team is working on every day. 
 
 The traditional government fear of T&M contracts is that costs spin out of control. The empowered product owner[^owner] reduces this risk though daily communication, and frequent -- every sprint -- inspection of performance against a quality assurance surveillance plan (QASP). We also encourage using a not-to-exceed ceiling to put an additional cap on expenses to protect the government's interest.
 
-In addition to flexibility, another T&M benefit is that it allows for development team flexibility to scale up and down as needed. Stable teams are a core tenet of agile development. Agile frowns on changing team structures more often than needed, but T&M allows the product owner to do so if necessary.
+In addition to flexibility, another T&M benefit is that it allows for development team flexibility to scale up and down as needed. Stable teams are a core tenet of agile development. agile frowns on changing team structures more often than needed, but T&M allows the product owner to do so if necessary.
 
 A real-life example: a new government product owner rightly determined that they could only manage one scrum team since the role was new. Six months into the project, the government product owner had mastered the role and was confident in their abilities. They decided to add an additional scrum team to speed development work. Once the key functionality has been built, the government product owner plans to return to one scrum team, likely smaller than the original. These changes are made possible by using T&M. No modifications are necessary because the agency is paying for the time humans spend building out the product -- the number of humans and which roles are filled can change. 
 
@@ -423,7 +423,7 @@ T&M allows agencies to save money, too. The contractor can only bill for time sp
 
 A final T&M benefit is that if the contractor is not producing quality software -- if their work is inadequate or their skills prove to not fit the work needed -- no more work needs be assigned to the contractor, which effectively terminates the contract. There is no work in the product backlog, and the contractor cannot bill their time to the government. There is no need to terminate for convenience or cause.
 
-To be clear, T&M does require more active management than the FFP "set it and forget it" contracts. The government must know what is going on, and review and approve invoices appropriately. Luckily, with Agile development, this should already be happening. Read more about this shift in our recommendation on [post-award management](/federal-field-guide/doing-the-work/#post-award-contract-administration-looks-different-in-agile).
+To be clear, T&M does require more active management than the FFP "set it and forget it" contracts. The government must know what is going on, and review and approve invoices appropriately. Luckily, with agile development, this should already be happening. Read more about this shift in our recommendation on [post-award management](/federal-field-guide/doing-the-work/#post-award-contract-administration-looks-different-in-agile).
 
 Find more information in our sample  [T&M determination and findings](https://18f.gsa.gov/assets/presentations/determinations-findings-for-a-time-and-materials-contract-type-sample.docx), which agencies can modify for their needs.
 
@@ -433,17 +433,17 @@ Why not a labor hour contract? Our experience reveals it's often necessary to bu
 
 ##### Firm-fixed-price contract
 
-Don't procure Agile under a firm-fixed-price contract. We understand that most agencies discourage the use of T&M contracts in favor of FFP. However, Contracting Officers can use time and materials contracts when it is not possible to estimate accurately the extent or duration of the work, or to anticipate costs with any reasonable degree of confidence. This is the case with Agile software development.
+Don't procure agile under a firm-fixed-price contract. We understand that most agencies discourage the use of T&M contracts in favor of FFP. However, Contracting Officers can use time and materials contracts when it is not possible to estimate accurately the extent or duration of the work, or to anticipate costs with any reasonable degree of confidence. This is the case with agile software development.
 
-Agencies can FFP Agile. We just found it leads to a lot of headaches, fighting, and adverse outcomes. It is likely to go very poorly.
+Agencies can FFP agile. We just found it leads to a lot of headaches, fighting, and adverse outcomes. It is likely to go very poorly.
 
 Firm-fixed-price contract types are perhaps the most commonly used methods to manage contractor performance. Government prefers the FFP contract type for a number of perceived benefits, and legislators and overseers encourage its use. 
 
 In this contract type, the contractor is rewarded when it delivers the exact list of requested features. An exact list of requested features becomes necessary up front, because using FFP contract types assumes that "performance uncertainties can be identified and reasonable estimates of their cost impact can be made, and the contractor is willing to accept a firm-fixed-price representing assumption of the risks involved." 
 
-When developing software using Agile development, the best requirements for a product cannot be known accurately before development, so FFP is not appropriate.
+When developing software using agile development, the best requirements for a product cannot be known accurately before development, so FFP is not appropriate.
 
-That being said, we've seen several programs *try* to FFP Agile, sometimes in elaborate and complex ways, and none of them have worked well. The most popular method is to FFP a sprint. Another commonly used method is FFP by story points.
+That being said, we've seen several programs *try* to FFP agile, sometimes in elaborate and complex ways, and none of them have worked well. The most popular method is to FFP a sprint. Another commonly used method is FFP by story points.
 
 Both scenarios result in unnecessary gamesmanship and fighting between the contractor and government. The contractor is incentivized to overbill and underdeliver. There are no canonical, objective ways to measure the number of user stories included in a given sprint or the size of a story point. So, when the government says "we think this story is size X" and the contractor says "we think this story is size Y" the resulting debate is difficult to resolve. These methods don't help to gauge contractor performance in any way. Agile quality or outcomes cannot be measured by the number of sprints or user stories completed. 
 
@@ -453,13 +453,13 @@ With FFP contracts, agencies don't have the flexibility to change the contractor
 
 The only repeatable, standard, objective, scalable, universal way to measure work during a sprint is total effort-hours, which is not appropriate for firm-fixed-pricing. This is the purpose of time-and-materials or labor hour contracts.
 
-### Evaluate contractor proposals based on industry best practices.
+### Evaluate contractor proposals based on industry best practices
 By **Waldo Jaquith**, **Randy Hart**, **Mark Hopson**, **Vicki McFadden**, **Kelsey Foley**, **Miatta Myers**, and **Stephanie Rivera**
 
 **Challenge:** Traditional evaluation methods of custom technology practices are not based on industry standards.
 {:.guide-highlight}
 
-#### Executive Summary
+#### Executive summary
 
 -   Review the strengths, weaknesses, and risks of contractors' proposals and then invite the most highly rated for a verbal interview.
 
@@ -487,13 +487,13 @@ Contractors will not be allowed to make presentations, ask questions, or change 
 
 ##### Determining the most highly rated proposals
 
-When contracting for Agile development services, we typically recommend that agencies use four evaluation factors: technical approach, staffing approach, similar experience, and price. 
+When contracting for agile development services, we typically recommend that agencies use four evaluation factors: technical approach, staffing approach, similar experience, and price. 
 
 The three technical evaluation factors, when combined, are significantly more important than the price. Evaluate the interviews as part of the technical approach, rather than as their own evaluation factor. For similar experience, ask the contractor to submit code repositories that are similar in size, scope, and complexity to the work that the agency is undertaking. 
 
 Below is what we suggest agencies consider when they're reviewing proposals using these evaluation criteria. 
 
-###### Technical Approach
+###### Technical approach
 
 What to look for:
 
@@ -555,7 +555,7 @@ Red flags:
 
 -   They propose long-term staff augmentation.
 
-###### Staffing Approach
+###### Staffing approach
 
 What to look for:
 
