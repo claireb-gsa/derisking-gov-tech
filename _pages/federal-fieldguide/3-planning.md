@@ -379,7 +379,7 @@ It is demoralizing and expensive if a contractor is brought on to develop softwa
 
 #### Recommendation
 
-Federal agencies often assume a clear path to production. However, when the work with a contractor gets started, delivering and deploying code becomes a challenge that creates a lot of wasted time, effort, and frustration. This can quickly escalate, creating a lot of tension and ill-will at the start of a project
+Federal agencies often assume a clear path to production. However, when the work with a contractor gets started, delivering and deploying code becomes a challenge that creates a lot of wasted time, effort, and frustration. This can quickly escalate, creating a lot of tension and ill-will at the start of a project.
 
 Before a contract is awarded and the contractor team starts working, the agency should validate whether software can be deployed to an environment where users can see the work. There are two options: prototype a solution, or ask questions to gain clarity before a contractor gets started. Ideally, do both. 
 
@@ -395,7 +395,7 @@ The prototype should answer these questions:
 
 -   What processes or policies do a software team need to work through to provision services and deploy applications to them?
 
--   Which stakeholders are required for approvals?? What things do they need to approve? What form do applications for approval take?
+-   Which stakeholders are required for approvals? What things do they need to approve? What form do applications for approval take?
 
 ##### Ask detailed questions
 
