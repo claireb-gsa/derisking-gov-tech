@@ -49,7 +49,7 @@ By **Waldo Jaquith**, **Peter Rowland**, **Miatta Myers**, **Vicki McFadden**, *
 
 #### Executive Summary
 
--   Any Agile development effort requires an empowered, accountable, and technically proficient federal leader to succeed
+-   Any agile development effort requires an empowered, accountable, and technically proficient federal leader to succeed
 
 -   Product owners must be given the time, latitude, and authority to succeed and deliver value to end users. 
 
@@ -63,11 +63,11 @@ A common problem government custom software development projects face is that le
 
 Product ownership is often treated as "other duties as assigned," but it is a full-time job. Product owners can't work on several products at any given time, especially if it's a new role for them. Their days should be filled with scrum ceremonies (sprint planning, sprint review, retro, daily stand-ups), clearing blockers for the team, attending usability sessions, meeting with users, communicating with stakeholders, and refining the backlog. Expecting someone to lead a product development team with only a fraction of their time is setting them --- and the product--- up for failure. 
 
-Another common problem is requiring the product owner to work through a governance board to make changes in product direction. Often, governance boards will vote on requirements, not based on any understanding of user needs, and give those requirements to product owners to execute against. That is at odds with an Agile approach. Agile methods require that product owners are empowered to act on their understanding of the end users' needs. They should be empowered to say "no" to feature requests that do not meet user needs, and do so often, no matter who in the organization is making the request. This should be well understood and accepted. The product team should be empowered to adjust course throughout a project, based on what they learn. They should be able to communicate freely with their end users. This autonomous product team and product owner role requires cooperation with executive stakeholders. Without this autonomy and support, it is more difficult to deliver the right product to end users. 
+Another common problem is requiring the product owner to work through a governance board to make changes in product direction. Often, governance boards will vote on requirements, not based on any understanding of user needs, and give those requirements to product owners to execute against. That is at odds with an agile approach. Agile methods require that product owners are empowered to act on their understanding of the end users' needs. They should be empowered to say "no" to feature requests that do not meet user needs, and do so often, no matter who in the organization is making the request. This should be well understood and accepted. The product team should be empowered to adjust course throughout a project, based on what they learn. They should be able to communicate freely with their end users. This autonomous product team and product owner role requires cooperation with executive stakeholders. Without this autonomy and support, it is more difficult to deliver the right product to end users. 
 
 Product owners come from all walks of life. To serve in this role, they don't need a specific education or work experience background, but they do need to understand the needs of users, be able to lead a team effectively, clear blockers, and deliver results. 
 
-They also need a willingness to learn and have the time and space to experiment, make mistakes, and grow. They should also receive training -- there are many excellent scrum product owner offerings available -- and would benefit from working with an experienced scrum master and/or Agile coach as they begin to master this new skill. 
+They also need a willingness to learn and have the time and space to experiment, make mistakes, and grow. They should also receive training -- there are many excellent scrum product owner offerings available -- and would benefit from working with an experienced scrum master and/or agile coach as they begin to master this new skill. 
 
 ### Involve end users early and often in software development efforts
 By **Waldo Jaquith**, **Peter Rowland**, **Miatta Myers**, **Vicki McFadden**, **Mark&nbsp;Hopson**
@@ -77,15 +77,15 @@ By **Waldo Jaquith**, **Peter Rowland**, **Miatta Myers**, **Vicki McFadden**, *
 
 #### Executive Summary
 
--   Agile is impossible without regular and ongoing feedback from end users. Agencies can't be Agile without such feedback.
+-   Agile is impossible without regular and ongoing feedback from end users. Agencies can't be agile without such feedback.
 
 -   Leadership, governance boards, or proxies should not be "deciding for the user."
 
 #### Recommendation
 
-A wide variety of users are likely to interact with government software. For government programs, an end user of a given product could differ -- it could be the public, a warfighter, a field employee, or one of dozens of other groups. Today, end users are not sufficiently involved in government Agile projects. Projects that get funded are not always driven by end user needs. It's common to find "Agile" projects that lack sufficient — sometimes _any_ — end user feedback.
+A wide variety of users are likely to interact with government software. For government programs, an end user of a given product could differ -- it could be the public, a warfighter, a field employee, or one of dozens of other groups. Today, end users are not sufficiently involved in government agile projects. Projects that get funded are not always driven by end user needs. It's common to find "agile" projects that lack sufficient — sometimes _any_ — end user feedback.
 
-Without regular and ongoing feedback from actual end users, an agency can't be Agile. No level of stakeholder priority-setting or requirements review board processes can substitute for active and continuous end user feedback loops. Someone who had the job of an end user 10--20 years ago cannot serve as a proxy. Surveys do not bring sufficient user feedback into the development efforts. By not communicating with end users, teams could be solving the wrong problems. Under that approach, there is no feedback loop to validate whether the end user is satisfied, which is the primary definition of success in an Agile project. This is an extremely risky way of developing software.
+Without regular and ongoing feedback from actual end users, an agency can't be agile. No level of stakeholder priority-setting or requirements review board processes can substitute for active and continuous end user feedback loops. Someone who had the job of an end user 10--20 years ago cannot serve as a proxy. Surveys do not bring sufficient user feedback into the development efforts. By not communicating with end users, teams could be solving the wrong problems. Under that approach, there is no feedback loop to validate whether the end user is satisfied, which is the primary definition of success in an agile project. This is an extremely risky way of developing software.
 
 Every effort should start with end user research. Every user story in the product backlog should be based on current end user needs. End users should be continuously asked for feedback on product direction to shape the product to their needs. Development teams should be empowered to make changes in direction based on the feedback of end users. In many cases, end users should be included in every sprint review, so they can see the product mature iteratively, and provide feedback on direction.
 
@@ -255,26 +255,26 @@ By having contractors use DevOps and define infrastructure as code, agencies can
 ### Leadership should set direction and empower teams
 By **Peter Rowland**, **Mark Hopson**, **Vicki McFadden**, **Miatta Myers**, **Waldo Jaquith**
 
-**Challenge:** Leadership's role differs in an Agile project.
+**Challenge:** Leadership's role differs in an agile project.
 {:.guide-highlight}
 
 #### Executive Summary
 
-Leadership's role in Agile development is to empower teams, align organizational governance and oversight practices to Agile development, and remove blockers. 
+Leadership's role in agile development is to empower teams, align organizational governance and oversight practices to agile development, and remove blockers. 
 
 #### Recommendation
 
-Leadership's role in an Agile project should not be to dictate requirements, set stringent timelines, solve problems, or make decisions on behalf of the user. 
+Leadership's role in an agile project should not be to dictate requirements, set stringent timelines, solve problems, or make decisions on behalf of the user. 
 
 Instead, leadership should support and empower the development teams, and give them permission to make small mistakes and learn from those mistakes.
 
-Leadership has an important role to play in establishing an organizational priority to adopt Agile development, and aligning governance and [oversight processes](https://docs.google.com/document/d/1h3UBJk2PhggKu4LgCZQXCNvtXnFY3q6hv34bs-nysvo/edit#bookmark=id.cb8wc9gku3m8) to this methodology.
+Leadership has an important role to play in establishing an organizational priority to adopt agile development, and aligning governance and [oversight processes](https://docs.google.com/document/d/1h3UBJk2PhggKu4LgCZQXCNvtXnFY3q6hv34bs-nysvo/edit#bookmark=id.cb8wc9gku3m8) to this methodology.
 
-The artifacts that agencies typically look at when reviewing a project's progress are time-consuming to produce and discourage Agile development. "Waterfall muscle memory" is strong in most agencies; most of the internal practices and processes have been established and reinforced over decades, and are not suitable for Agile development. Employees who have spent years performing work in the service of leadership's needs will need time to learn how to prioritize user needs. 
+The artifacts that agencies typically look at when reviewing a project's progress are time-consuming to produce and discourage agile development. "Waterfall muscle memory" is strong in most agencies; most of the internal practices and processes have been established and reinforced over decades, and are not suitable for agile development. Employees who have spent years performing work in the service of leadership's needs will need time to learn how to prioritize user needs. 
 
-Internal management processes that demand detailed requirements documentation will make Agile impossible. This is a large shift that will take a long period of time, and missteps will be made along the way. It's essential to have leadership in place to spearhead this effort. Without a significant and focused effort to shift an organization's culture, Agile development is unlikely to succeed on a larger scale. 
+Internal management processes that demand detailed requirements documentation will make agile impossible. This is a large shift that will take a long period of time, and missteps will be made along the way. It's essential to have leadership in place to spearhead this effort. Without a significant and focused effort to shift an organization's culture, agile development is unlikely to succeed on a larger scale. 
 
-Other constructive involvement of leadership and key stakeholders in Agile development may take the form of providing funding, helping to set the product vision, monitoring product roadmaps and backlog, attending sprint reviews and user research sessions, helping overcome bureaucratic hurdles, and serving as authorizing officials in security accreditations. 
+Other constructive involvement of leadership and key stakeholders in agile development may take the form of providing funding, helping to set the product vision, monitoring product roadmaps and backlog, attending sprint reviews and user research sessions, helping overcome bureaucratic hurdles, and serving as authorizing officials in security accreditations. 
 
 The level of leadership and stakeholder involvement needed is personality- and team-dependent, so there likely isn't a one-size-fits-all approach that will work with all teams.
 
@@ -321,23 +321,23 @@ A few rules:
 
 Once agencies understand that the new system does not need to be entirely designed or defined up-front, we can move directly to how to start work and start to deliver value to users. Usually we help agencies by charting their desired functionality on a 2×2 chart, with user value on one axis and technical complexity on the other. 
 
-We start work on the functionality that has the highest user value and the lowest technical complexity. While we want to quickly deliver value to end users, we don't necessarily want to pick the most technically challenging part of the project to start with. Some teams want to go after the most technically complex chunk of work first as a form of pathfinding, but that raises the stakes in a way that inhibits adoption of Agile. We're not dogmatic about what "chunk" of work gets picked first, just that the work is tightly scoped and will allow the team to deliver value to users relatively quickly. 
+We start work on the functionality that has the highest user value and the lowest technical complexity. While we want to quickly deliver value to end users, we don't necessarily want to pick the most technically challenging part of the project to start with. Some teams want to go after the most technically complex chunk of work first as a form of pathfinding, but that raises the stakes in a way that inhibits adoption of agile. We're not dogmatic about what "chunk" of work gets picked first, just that the work is tightly scoped and will allow the team to deliver value to users relatively quickly. 
 
 This "chunk" of the overall system should be assigned a product owner and allowed to write and award their own contract. 
 
 At this point, agencies often face two challenges: 
 
-1.  **Move to Agile by team.** Moving to Agile tends to bring out organizational antibodies that stifles and discourages innovation. To combat this, we start small. Allow one or two brave teams to test out Agile, learn, and recommend for what procedures, practices, and tools must be tweaked to enable Agile for the entire organization.
+1.  **Move to agile by team.** Moving to agile tends to bring out organizational antibodies that stifles and discourages innovation. To combat this, we start small. Allow one or two brave teams to test out agile, learn, and recommend for what procedures, practices, and tools must be tweaked to enable agile for the entire organization.
 
-    If several teams are told to adopt Agile at the same time, that does not allow for this important learning to occur and scale naturally. A large-scale, simultaneous Agile transition requires every team to undergo the same painful and frustrating learning process. These teams will probably develop their own solutions that will be based on the path of least resistance, rather than what is right for the enterprise. 
+    If several teams are told to adopt agile at the same time, that does not allow for this important learning to occur and scale naturally. A large-scale, simultaneous agile transition requires every team to undergo the same painful and frustrating learning process. These teams will probably develop their own solutions that will be based on the path of least resistance, rather than what is right for the enterprise. 
 
 1.  **Don't consolidate contracts.** There is no "economy of scale" when buying professional services. There is no reason to combine several product teams' needs into a single contract award. It does not reduce complexity --- rather, it hides the complexity inherent in any development effort. Consolidating contracts increases risk by creating a single point of failure. And it does not allow the agency to buy specialized skills that it might need for just one team.
 
-##### Pricing the cost of an Agile software development team
+##### Pricing the cost of an agile software development team
 
 The ideal size of a scrum team is somewhere between four to nine people. Let's pick the high end, nine people, and put together a reasonable mix of talent for the team. Using [GSA's Contract-Awarded Labor Category](https://calc.gsa.gov/) tool, it's simple to estimate the labor cost per hour and multiply that by a reasonable number of hours that a person would be expected to work in a given year: 1,880 (accounting for holidays and leave). Our independent government cost estimate (IGCE) in this scenario, for one year of performance, is $1.9 million.
 
-_Note: The below table represents an estimate using the industry average cost of purchasing services from a private company offering Agile software development. If an agency requires their development teams to be on-site or have top-secret security clearances, the pool of available companies to compete on this work will be drastically reduced, and the agency can expect the average hourly labor rates to be substantially higher (especially as the clearance process itself is an added cost). Also, these positions and their hourly rates vary greatly depending on location within the United States that the employee is located._
+_Note: The below table represents an estimate using the industry average cost of purchasing services from a private company offering agile software development. If an agency requires their development teams to be on-site or have top-secret security clearances, the pool of available companies to compete on this work will be drastically reduced, and the agency can expect the average hourly labor rates to be substantially higher (especially as the clearance process itself is an added cost). Also, these positions and their hourly rates vary greatly depending on location within the United States that the employee is located._
 {:.guide-note}
 
 | Position Title          | # of people | Average hourly labor rate[^rate] | Cost       |
@@ -349,7 +349,7 @@ _Note: The below table represents an estimate using the industry average cost of
 | Content strategist      |           1 |                      $144 |   $270,720 |
 |                         |             |                     **Total** | **$1,964,600** |
 
-Generally, we advise keeping contracts under $10 million for the entire period of performance, which we usually set at three years (one base and two one-year option periods). An Agile software development team will produce a great deal of user value during that time. If the work is scoped appropriately, the team should be able to deliver all the major features that users need.
+Generally, we advise keeping contracts under $10 million for the entire period of performance, which we usually set at three years (one base and two one-year option periods). An agile software development team will produce a great deal of user value during that time. If the work is scoped appropriately, the team should be able to deliver all the major features that users need.
 
 Software is never "done." Even after three years of performance, an agency should expect to award a contract to another, perhaps smaller, software development team to continue enhancing the software and fixing user issues. If not, user needs and technical needs will continue to change, while the software fails to change to accommodate those needs. In the eyes of the end users, the latest and greatest software will slowly deteriorate to become the hated legacy software. 
 
@@ -357,13 +357,13 @@ Software is never "done." Even after three years of performance, an agency shoul
 
 In the bad old days of software development, an agency painfully detailed out all conceivable requirements, and industry provided a cost and schedule in their bid. This gave the false impression of certainty, because projects rarely ended on time, or on budget, or delivered the functionality that was desired. More often, there were many modifications to the contract to add requirements over time, and the price skyrocketed and the schedule slipped.
 
-With Agile development, an agency can give a reasonable estimate for cost and schedule, but the performance is what will change over time based on user research and iterative development. 
+With agile development, an agency can give a reasonable estimate for cost and schedule, but the performance is what will change over time based on user research and iterative development. 
 
 **Cost** is calculated by using the labor rates proposed by the winning vendor.
 
-**Schedule** is the entire period of performance or some subset of that. For example, some agencies want to deliver a minimally viable product (MVP) in the first 9 months of a software development effort. That's great: it gives the Agile software development team a timeboxed window to complete a useful but limited set of functionality for users. But the agency should know that the product will not be done at this time, and will continue to get refined and have new features added post-MVP.
+**Schedule** is the entire period of performance or some subset of that. For example, some agencies want to deliver a minimally viable product (MVP) in the first 9 months of a software development effort. That's great: it gives the agile software development team a timeboxed window to complete a useful but limited set of functionality for users. But the agency should know that the product will not be done at this time, and will continue to get refined and have new features added post-MVP.
 
-**Performance** is unknown at the start of the project. The agency will have a product vision and a sense of the outcomes they're trying to create for end users, but specific functionality --- and the order in which that functionality will be delivered --- is unknown and unknowable. Over time, however, an Agile software team should be able to provide some estimates about when certain functionality should be delivered.
+**Performance** is unknown at the start of the project. The agency will have a product vision and a sense of the outcomes they're trying to create for end users, but specific functionality --- and the order in which that functionality will be delivered --- is unknown and unknowable. Over time, however, an agile software team should be able to provide some estimates about when certain functionality should be delivered.
 
 Product owners should develop a product roadmap and share it with stakeholders. Agencies should not use product roadmaps to forecast  what will be delivered when, but use them to help communicate the priority order in which work is anticipated to be done. They are designed to help deliver the highest value to users within a given budget or time constraint. 
 
@@ -375,7 +375,7 @@ By **Heather Battaglia**, **T Carter Baxter**, **Kelsey Foley**, **Mark Hopson**
 
 #### Executive Summary
 
-It is demoralizing and expensive if a contractor is brought on to develop software and they can't access the hosting or deployment environments for months. Make sure the path to production is clear from bureaucratic obstacles and well-documented before awarding a contract for Agile software development services.
+It is demoralizing and expensive if a contractor is brought on to develop software and they can't access the hosting or deployment environments for months. Make sure the path to production is clear from bureaucratic obstacles and well-documented before awarding a contract for agile software development services.
 
 #### Recommendation
 
@@ -385,7 +385,7 @@ Before a contract is awarded and the contractor team starts working, the agency 
 
 ##### Prototype a solution
 
-Conduct a short prototyping process (as simple as a single-page "Hello, World" website) to test your agency's ability to support an Agile software development project in terms of technology, human resources, and policy. The prototype is a disposable artifact of the process, not something that will ever be deployed for public use. 
+Conduct a short prototyping process (as simple as a single-page "Hello, World" website) to test your agency's ability to support an agile software development project in terms of technology, human resources, and policy. The prototype is a disposable artifact of the process, not something that will ever be deployed for public use. 
 
 This work will help the team understand their tool preferences and document internal processes. This will likely be useful supporting documentation in a Request for Proposal (RFP) or to give to the winning contractor so they can get started quickly. 
 
@@ -411,7 +411,7 @@ Having adequate answers to these questions is the _minimum_ that an agency shoul
 
 ##### Success criteria
 
-These are the general criteria to ensure an agency is ready for an Agile software team, and can continue with contract award:
+These are the general criteria to ensure an agency is ready for an agile software team, and can continue with contract award:
 
 -   There is access to a hosting environment, which somebody at the agency administers.
 
@@ -419,7 +419,7 @@ These are the general criteria to ensure an agency is ready for an Agile softwar
 
 -   There is a process by which changes made to code on the repository are automatically deployed to the hosting environment, and the agency has the ability to release frequently (a.k.a, DevOps, or CI/CD).
 
-If these success criteria are known, a team can feel confident that they can award an Agile software development contract and that the contractor onboarding process should be relatively smooth. 
+If these success criteria are known, a team can feel confident that they can award an agile software development contract and that the contractor onboarding process should be relatively smooth. 
 
 ### Give teams access to the remote collaboration tools that they need to be successful 
 By **Peter Rowland**, **Randy Hart**, **Mark Hopson**, **Waldo Jaquith**, **Vicki&nbsp;McFadden**, **Miatta Myers**
@@ -437,7 +437,7 @@ Distributed teams are normal at agencies, as are distributed teams of contractor
 
 However, remote collaboration can be difficult for agencies. Agency network restrictions and software approval policies make collaboration with remote team members difficult. Many commonly used tools for video-conferencing are blocked in government buildings. Federal employees often resort to workarounds, like using their personal mobile phones, to get access to the services they need. 
 
-Without a set of commonly available collaboration tools, especially for video-conferencing, it is much more difficult for agency teams and contractors to practice Agile development, where frequent communication and feedback are needed to facilitate quick decision-making and prioritization of tasks. The product owner should always know what the team is working on, and the team should be readily available to answer questions or huddle to problem-solve issues as they arise. Every sprint, there should be a demonstration of functioning software. Working like this via phone calls, emails, and PowerPoint presentations is _incredibly — and needlessly — limiting_ for a distributed Agile team.
+Without a set of commonly available collaboration tools, especially for video-conferencing, it is much more difficult for agency teams and contractors to practice agile development, where frequent communication and feedback are needed to facilitate quick decision-making and prioritization of tasks. The product owner should always know what the team is working on, and the team should be readily available to answer questions or huddle to problem-solve issues as they arise. Every sprint, there should be a demonstration of functioning software. Working like this via phone calls, emails, and PowerPoint presentations is _incredibly — and needlessly — limiting_ for a distributed agile team.
 
 In the past, our teams have used the following tools to support remote work. See this [article](https://digital.gov/2017/10/03/3-ways-manage-research-projects-remotely/) to learn more about managing teams remotely. Some of the tools 18F uses:
 
@@ -468,7 +468,7 @@ Agencies should determine which collaboration tools their teams need and make th
 
 #### Recommendation
 
-Instead of making large, risky investments in major software programs years in advance, agencies should apply Agile principles to break up those larger, monolithic projects into smaller, incremental budget allocations. 
+Instead of making large, risky investments in major software programs years in advance, agencies should apply agile principles to break up those larger, monolithic projects into smaller, incremental budget allocations. 
 
 This idea of modularity can be found in the [Clinger-Cohen Act of 1996](https://www.govinfo.gov/content/pkg/PLAW-104publ106/pdf/PLAW-104publ106.pdf) as enshrined in FAR Part 39 - Acquisition of Information Technology (which introduced modular contracting). Taking a modular approach compartmentalizes failures, reduces the risk of failure, and brings the size of projects below the threshold for greater agency oversight.
 
@@ -482,7 +482,7 @@ Almost certainly[^certainly], there is a many-month delay for government agencie
 
 Receiving an appropriation enables an agency to incur an obligation, which is an action that creates a legal liability or a definite commitment on the part of the government for the payment of goods and services ordered or received. A purchasing contract, in other words. The biggest complication created from this process is that it begins about **18 months** before receiving the appropriation.
 
-This kind of planning is counter to the adaptive, Agile development, which boasts a vastly greater success rate for building high quality, user-centered digital products and services. 
+This kind of planning is counter to the adaptive, agile development, which boasts a vastly greater success rate for building high quality, user-centered digital products and services. 
 
 Suzette Kent, former Federal CIO, has said, "We still fund in single-year increments. We still fund like a project has a finite start and stop date. It does not. Just like we have to continually fund the refurbishments of our national parks or our roads, our technology infrastructure is no different."
 
@@ -539,7 +539,7 @@ We often include our risk mitigation prototypes with any eventual solicitation t
 
 If agencies are unable to get budget requests for prototyping effort, there's an excellent alternative through the Technology Modernization Fund (TMF) housed within GSA.
 
-#### Change Agile software development appropriations
+#### Change agile software development appropriations
 
 The Defense Innovation Board's (DIB) report [Software is Never Done: Refactoring the Acquisition Code for Competitive Advantage](https://media.defense.gov/2019/Mar/14/2002101480/-1/-1/0/DIB-SWAP_STUDY_REPORT[DRAFT],_LAST%20MODIFIED_13MAR2019.PDF)  made a number of recommendations to try and improve the success rate for defense agency software projects. In that report, the DIB makes the case that:
 
